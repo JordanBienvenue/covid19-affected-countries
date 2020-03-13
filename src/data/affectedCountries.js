@@ -1,5 +1,6 @@
 const affectedCountries = [
     "Algeria",
+    "Reunion",
     "Burkina Faso",
     "Cameroon",
     "Democratic Republic of Congo",
